@@ -1,0 +1,19 @@
+name: hades
+channels:
+  - pytorch
+  - nvidia
+  - defaults
+dependencies:
+  - python=3.10
+  - pip=24.2
+  - pip: # If this fails, you can install it seperately with pip.
+    - numpy==1.24.3
+    - scipy==1.13.1
+    - torch==2.5.0
+    - transformers==4.45.0
+    - datasets==3.3.0
+    - accelerate==1.2.0
+    - sentencepiece==0.2.0
+    - protobuf==4.25.4
+    - evaluate==0.4.2
+    - scikit-learn==1.5.1
