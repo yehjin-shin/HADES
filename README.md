@@ -7,7 +7,7 @@
 
 <div>
     <a href="https://yehjin-shin.github.io/" target="_blank">Yehjin Shin*</a>,
-      <a href="https://scholar.google.com/citations?user=4GpvarsAAAAJ&hl=en" target="_blank">Seojin Kim*</a>,
+      <a href="https://sjiinkim.github.io" target="_blank">Seojin Kim*</a>,
       <a href="https://sites.google.com/view/noseong" target="_blank">Noseong Park</a>,
     <div>
      Korea Advanced Institute of Science and Technology (KAIST)
