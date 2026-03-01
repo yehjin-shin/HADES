@@ -1,6 +1,6 @@
-# Graph Signal Processing Meets Mamba2: Adaptive Filter Bank via Delta Modulation
+# [ICLR 2026] Graph Signal Processing Meets Mamba2: Adaptive Filter Bank via Delta Modulation
 
-We introduce **H**ierarchical **AD**aptive filter bank for **E**fficient **S**SMs (*HADES*), a GSP-inspired framework that reinterprets Mamba2 as an adaptive filter bank on a line graph. [Paper Link](https://openreview.net/forum?id=cH0OxrmfdL&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FWorkshop%2FES-FoMo-III%2FAuthors%23your-submissions))
+We introduce **H**ierarchical **AD**aptive filter bank for **E**fficient **S**SMs (*HADES*), a GSP-inspired framework that reinterprets Mamba2 as an adaptive filter bank on a line graph. [Paper Link](https://openreview.net/forum?id=w0XhHcXfKv)
 
 # Setup
 ## Create Environment
